@@ -1,0 +1,20 @@
+:root {
+  /* Cinzas */
+  --cor-preto: #000000;
+  --cor-branco: #FFFFFF;
+  --cor-c1: #595959;
+  --cor-c2: #999999;
+  --cor-c3: #D9D9D9;
+  /* Primária */
+  --cor-p1: #67c8dbff;
+  --cor-p2: #23b5d3ff;
+  /* Secundária */
+  --cor-s1: #071013ff;
+  /* Espaçamento */
+  --pd8: 8px;
+  --pd40: 40px;
+  --pd32: 32px;
+  --pd16: 16px;
+  --pd24: 24px;
+  --radius8: 8px;
+}

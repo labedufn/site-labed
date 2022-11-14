@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M11.7763 1H22.2798L17.8059 7.85384H26L12.3793 31L14.7911 16H6L11.7763 1Z" fill="url(#paint0_linear_101_2)"/>
-<defs>
-<linearGradient id="paint0_linear_101_2" x1="16" y1="1" x2="16" y2="31" gradientUnits="userSpaceOnUse">
-<stop stop-color="#23B5D3"/>
-<stop offset="1" stop-color="#2094AC"/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" xmlns:v="https://vecta.io/nano"><path d="M11.776 1H22.28l-4.474 6.854H26L12.379 31l2.412-15H6l5.776-15z" fill="url(#A)"/><defs><linearGradient id="A" x1="16" y1="1" x2="16" y2="31" gradientUnits="userSpaceOnUse"><stop stop-color="#23b5d3"/><stop offset="1" stop-color="#2094ac"/></linearGradient></defs></svg>
