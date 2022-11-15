@@ -33,7 +33,7 @@ const Main = (props) => {
         <div className="conteudo-img-container">
           <img
             alt="Logo LABED"
-            src="/assets/img/logos/logo-labed.svg"
+            src="/img/logos/logo-labed.svg"
             className="conteudo-img-logo-labed"
           />
         </div>
@@ -49,7 +49,7 @@ const Main = (props) => {
             <div className="projetos-card">
               <img
                 alt="image"
-                src="/assets/img/projetos/projeto1.jpg"
+                src="/img/projetos/projeto1.jpg"
                 className="projetos-card-img"
               />
               <div className="projetos-card-txt-container">
@@ -75,34 +75,7 @@ const Main = (props) => {
             <div className="projetos-card">
               <img
                 alt="image"
-                src="/assets/img/projetos/projeto2.jpg"
-                className="projetos-card-img"
-              />
-              <div className="projetos-card-txt-container">
-                <h3 className="projetoscard-titulo">
-                  <span>Título projeto</span>
-                  <br></br>
-                </h3>
-                <p className="projetos-card-desc">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae
-                  senectus neque, lorem sit in mattis. Vehicula eget eget
-                  tellus.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </p>
-                <Link to="/" className="projetos-card-btn">
-                  <span>Mais detalhes</span>
-                  <br></br>
-                </Link>
-              </div>
-            </div>
-            <div className="projetos-card">
-              <img
-                alt="image"
-                src="/assets/img/projetos/projeto3.jpg"
+                src="/img/projetos/projeto2.jpg"
                 className="projetos-card-img"
               />
               <div className="projetos-card-txt-container">
@@ -129,7 +102,7 @@ const Main = (props) => {
             <div className="projetos-card">
               <img
                 alt="image"
-                src="/assets/img/projetos/projeto4.jpg"
+                src="/img/projetos/projeto3.jpg"
                 className="projetos-card-img"
               />
               <div className="projetos-card-txt-container">
@@ -156,7 +129,7 @@ const Main = (props) => {
             <div className="projetos-card">
               <img
                 alt="image"
-                src="/assets/img/projetos/projeto5.jpg"
+                src="/img/projetos/projeto4.jpg"
                 className="projetos-card-img"
               />
               <div className="projetos-card-txt-container">
@@ -183,7 +156,34 @@ const Main = (props) => {
             <div className="projetos-card">
               <img
                 alt="image"
-                src="/assets/img/projetos/projeto6.jpg"
+                src="/img/projetos/projeto5.jpg"
+                className="projetos-card-img"
+              />
+              <div className="projetos-card-txt-container">
+                <h3 className="projetoscard-titulo">
+                  <span>Título projeto</span>
+                  <br></br>
+                </h3>
+                <p className="projetos-card-desc">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae
+                  senectus neque, lorem sit in mattis. Vehicula eget eget
+                  tellus.
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </p>
+                <Link to="/" className="projetos-card-btn">
+                  <span>Mais detalhes</span>
+                  <br></br>
+                </Link>
+              </div>
+            </div>
+            <div className="projetos-card">
+              <img
+                alt="image"
+                src="/img/projetos/projeto6.jpg"
                 className="projetos-card-img"
               />
               <div className="projetos-card-txt-container">
@@ -214,7 +214,7 @@ const Main = (props) => {
         <div className="sobre-container">
           <img
             alt="image"
-            src="/assets/img/gerais/sobre.jpg"
+            src="/img/gerais/sobre.jpg"
             className="sobre-img"
           />
           <div className="sobre-container-txt">
@@ -241,7 +241,7 @@ const Main = (props) => {
             <a href="#inicio" className="footer-link-img">
               <img
                 alt="image"
-                src="/assets/img/logos/logo-labed.svg"
+                src="/img/logos/logo-labed.svg"
                 className="footer-logo-labed"
               />
             </a>
@@ -253,7 +253,7 @@ const Main = (props) => {
             >
               <img
                 alt="image"
-                src="/assets/img/logos/logo-ufn.svg"
+                src="/img/logos/logo-ufn.svg"
                 className="footer-logo-ufn"
               />
             </a>
@@ -295,7 +295,7 @@ const Main = (props) => {
               >
                 <img
                   alt="image"
-                  src="/assets/img/icons/instagram.svg"
+                  src="/img/icons/instagram.svg"
                   className="footer-infos-redes-instagram"
                 />
               </a>
@@ -307,7 +307,7 @@ const Main = (props) => {
               >
                 <img
                   alt="image"
-                  src="/assets/img/icons/facebook.svg"
+                  src="/img/icons/facebook.svg"
                   className="footer-infos-redes-facebook"
                 />
               </a>
@@ -319,7 +319,7 @@ const Main = (props) => {
               >
                 <img
                   alt="image"
-                  src="/assets/img/icons/github.svg"
+                  src="/img/icons/github.svg"
                   className="footer-infos-redes-github"
                 />
               </a>
