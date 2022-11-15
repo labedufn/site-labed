@@ -221,7 +221,7 @@ const Main = (props) => {
             <h2 className="sobre-titulo">
               <span className="sobre-titulo-frase1">Sobre o</span>
               <br></br>
-              <span className="sobre-titulo-frase2">Labotarório</span>
+              <span className="sobre-titulo-frase2">Laboratório</span>
               <br></br>
             </h2>
             <p className="sobre-desc">
